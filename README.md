@@ -1,4 +1,4 @@
-# LedBlinking_Microcontroller
+# LedBlinking_8051Microcontroller
 > Create a project using a microcontroller to make a simple circuit of LED flashing (LED  turning on and off). using the assembly language of the microcontroller used.
 
 ### the simultion of the circuit on proteus
